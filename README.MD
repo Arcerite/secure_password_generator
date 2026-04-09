@@ -35,7 +35,7 @@ Clone the repository and install dependencies:
 
 Run the program:
 
-`python main.py`
+`python password_generator.py`
 
 Menu options:
 
