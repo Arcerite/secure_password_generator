@@ -25,8 +25,8 @@ A Python tool for generating cryptographically secure passwords with optional fi
 
 Clone the repository and install dependencies:
 
-`git clone git@github.com:yourusername/secure-password-generator.git`  
-`cd secure-password-generator`  
+`git clone git@github.com:yourusername/secure_password_generator.git`  
+`cd secure_password_generator`  
 `pip install pyperclip`
 
 ---
